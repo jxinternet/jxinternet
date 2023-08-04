@@ -1,0 +1,17 @@
+```js
+const jxinternet = {
+  pronouns: 'he' || 'him',
+  code: {
+    languages: [ "Python, JavaScript" ],
+    database: [ "SQL" ],
+    backEnd: [ "NodeJs" ],
+    frontEnd: [ "React", "Web Development", "HTML", "CSS" ],
+    inProgress: [ "AWS", "Artificial Intelligence", "PHP", "TypeScript", "NodeJS", "C#" ]
+  },
+
+  contact: {
+    Email: "joseandresfdl@gmail.com"
+    LinkedIn: "linkedin.com/in/jxinternet"
+  }
+};
+```

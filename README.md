@@ -8,7 +8,7 @@ const jxinternet = {
     database: [ "SQL" ],
     backEnd: [ "NodeJs" ],
     frontEnd: [ "React", "Web Development", "HTML", "CSS" ],
-    inProgress: [ "AWS", "Artificial Intelligence", "PHP", "TypeScript", "NodeJS", "C#" ]
+    inProgress: [ "AWS", "Artificial Intelligence", "PHP", "TypeScript", "C#" ]
   },
 
   contact: {

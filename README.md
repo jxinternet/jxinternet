@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**jxinternet/jxinternet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ```js
 const jxinternet = {
   pronouns: 'he' || 'him',
@@ -20,7 +17,8 @@ const jxinternet = {
   }
 };
 ```
-
+<!--
+**jxinternet/jxinternet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p align="right">
     <h3 align="left">Follow me on social media! : <a href="https://www.linkedin.com/in/jxinternet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="BRuno BuGLioni" height="30" width="40" /></a> </h3>

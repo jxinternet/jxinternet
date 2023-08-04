@@ -17,9 +17,6 @@ const jxinternet = {
   }
 };
 ```
-<!--
-**jxinternet/jxinternet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p align="right">
     <h3 align="left">Follow me on social media! : <a href="https://www.linkedin.com/in/jxinternet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="BRuno BuGLioni" height="30" width="40" /></a> </h3>
 </p>
@@ -47,4 +44,7 @@ Let me describe my experience:
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m currently learning AWS, Artificial Intelligence, PHP, TypeScript, NodeJS and C#
 - 💬 Ask me about Business Administration or Development.
+
+<!--
+**jxinternet/jxinternet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->

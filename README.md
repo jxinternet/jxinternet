@@ -31,18 +31,6 @@ Tengo experiencia profesional en el área de Servicio al Cliente para clientes d
 
 Soy un Desarrollador Jr. en potencia, trabajando con Tecnologías Web y lenguajes como Python, JavaScript, HTML, CSS, y bibliotecas como React ⌨️. Busco que el conocimiento que vaya adquiriendo permita diseñar experiencias innovadoras y ágiles para los usuarios. 🔗 Además, deseo colaborar y trabajar en conjunto con grandes expertos para hacer de América Latina un lugar con oportunidades para todos.
 
-🌎 Aparezco en todas mis redes sociales como @jxinternet
-        
-  <br/>
-  <h4>In English</h4>
-  <p>
-
-Let me describe my experience:
-
-- 🔭 I’m currently working on my own projects
-- 🌱 I’m currently learning AWS, Artificial Intelligence, PHP, TypeScript, NodeJS and C#
-- 💬 Ask me about Business Administration or Development.
-
 <!--
 **jxinternet/jxinternet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->

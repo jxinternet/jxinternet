@@ -5,7 +5,7 @@ const jxinternet = {
   pronouns: 'he' || 'him',
   code: {
     languages: [ "Python, JavaScript" ],
-    database: [ "SQL" ],
+    database: [ "SQL, MySQL" ],
     backEnd: [ "NodeJs" ],
     frontEnd: [ "React", "Web Development", "HTML", "CSS" ],
     inProgress: [ "AWS", "Artificial Intelligence", "PHP", "TypeScript", "C#" ]
@@ -25,11 +25,13 @@ const jxinternet = {
 <p>
   ¡Hola! 👋 soy José.
 
-Estudio la Licenciatura en Administración de Empresas (Estudios Finalizados) 🎓 e Ingeniería en Sistemas de Información y Ciencias de la Computación 💻. Ambas carreras universitarias representan mi deseo por transformar ideas en resultados exitosos a través de la Creatividad 💡y el Aprendizaje continuo. 
+  A la fecha, estoy finalizando mis estudios en la Licenciatura en Administración de Empresas 🎓 e Ingeniería en Sistemas de Información y Ciencias de la Computación 💻. Ambas carreras universitarias representan mi deseo por transformar ideas en resultados exitosos a través de la Creatividad 💡. 
 
-Tengo experiencia profesional en el área de Servicio al Cliente para clientes de Estados Unidos y Canadá; y Gestión Estratégica al haber sido Community Outreach Manager y llevado a cabo iniciativas enfocadas a la era Digital ✅. Actualmente soy Miembro de la Comisión Nacional de Líderes de Guatemala (CONALIGUA), La Comisión de Jóvenes de Cámara de la Industria (CIG Joven), el Google Developers Group Xela y la Comunidad Arduino de Guatemala 🇬🇹 . Además, soy Profesor de Inglés, Tutor especializado en Matemáticas ✏️ y colaboro como Conferencista en diferentes eventos o congresos.
+  Cuento con experiencia en el área de Servicio al Cliente para usuarios de Estados Unidos y Canadá; y Gestión Estratégica como Community Outreach Manager, enfocándose en iniciativas enfocadas a la era Digital ✅. Actualmente soy Colaborador del Google Developers Group Xela, AWS User Group Guatemala, y la Comunidad Arduino de Guatemala 🇬🇹 .
 
-Soy un Desarrollador Jr. en potencia, trabajando con Tecnologías Web y lenguajes como Python, JavaScript, HTML, CSS, y bibliotecas como React ⌨️. Busco que el conocimiento que vaya adquiriendo permita diseñar experiencias innovadoras y ágiles para los usuarios. 🔗 Además, deseo colaborar y trabajar en conjunto con grandes expertos para hacer de América Latina un lugar con oportunidades para todos.
+  Soy Desarrollador Junior en potencia, enfocado en Front-End, trabajando con lenguajes de programación como Python y JavaScript, incluso COBOL, al igual que con herramientas tecnológicas como HTML, CSS, React, NodeJS ⌨️. Busco que el conocimiento que vaya adquiriendo permita diseñar experiencias innovadoras y ágiles para los usuarios🔗. 
+
+🌎 Aparezco en todas mis redes sociales como @jxinternet
 
 <!--
 **jxinternet/jxinternet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

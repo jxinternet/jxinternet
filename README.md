@@ -18,8 +18,8 @@ const jxinternet = {
 };
 ```
 <p align="right">
-    <h3 align="left">Follow me on social media! : <a href="https://www.linkedin.com/in/jxinternet/" target="blank"><img align="center" 
-                                                  <a href="https://www.facebook.com/in/jxinternet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jose Figueroa" height="30" width="40" /></a> </h3>
+    <h3 align="left">Follow me on LinkedIn! : <a href="https://www.linkedin.com/in/jxinternet/" target="blank"><img align="center" 
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jose Figueroa" height="30" width="40" /></a> </h3>
 </p>
 
 <h2>@jxinternet</h2>

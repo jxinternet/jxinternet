@@ -17,8 +17,8 @@
 
 🎓 &nbsp;Soy Lic. en Administración de Empresas en Universidad Rafael Landívar, Campus Quetzaltenango\
 💻 &nbsp;Soy Máster en Seguridad Informática y Pénsum Cerrado en Ingeniería en Sistemas de Información en Universidad Mariano Gálvez\
-💡 &nbsp;Me gusta direccionar mis conocimientos informáticos en proyectos universitarios, trabajando con lenguajes como Python, JavaScript y C#.\
-💬 &nbsp;Me enfoco en desarrollo web con HTML y CSS, y utilizando frameworks como React y Node.js\
+💡 &nbsp;Me gusta direccionar mis conocimientos informáticos en proyectos universitarios, trabajando con lenguajes como Python, JavaScript, C++, y C#.\
+💬 &nbsp;Me enfoco en Desarrollo Web con HTML y CSS, y utilizando frameworks como React y Node.js\
 ⌨️ &nbsp;Tengo experiencia en el uso de las herramientas de Google, Microsoft, Amazon Web Services y gestores de bases de datos como MongoDB y MySQL.\
 ✅ &nbsp;Soy Miembro del AWS User Group Guatemala, la Comunidad Arduino de Guatemala y del Google Developers Group Xela\
 🌎 &nbsp;Soy un profesional enfocado en Análisis de Negocios, Marketing Digital, Experiencia del Usuario y Mentoría de Emprendimientos a través de TICs.\

@@ -16,7 +16,7 @@
 ### About Me:
 
 🎓 &nbsp;Soy Lic. en Administración de Empresas en Universidad Rafael Landívar, Campus Quetzaltenango\
-💻 &nbsp;Soy Máster en Seguridad Informática y Pénsum Cerrado en Ingeniería en Sistemas de Información en Universidad Mariano Gálvez\
+💻 &nbsp;Estudio una maestría en Seguridad Informática y soy pénsum Cerrado en Ingeniería en Sistemas de Información en Universidad Mariano Gálvez\
 💡 &nbsp;Me gusta direccionar mis conocimientos informáticos en proyectos universitarios, trabajando con lenguajes como Python, JavaScript, C++, y C#.\
 💬 &nbsp;Me enfoco en Desarrollo Web con HTML y CSS, y utilizando frameworks como React y Node.js\
 ⌨️ &nbsp;Tengo experiencia en el uso de las herramientas de Google, Microsoft, Amazon Web Services y gestores de bases de datos como MongoDB y MySQL.\
